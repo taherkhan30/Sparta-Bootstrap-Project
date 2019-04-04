@@ -32,12 +32,6 @@ color: orange;
   padding-right: 30px;
   padding-left: 30px;
 
-.jumbobutton{
-
-
-
-}
-
 
 }
 
@@ -86,11 +80,24 @@ p {
 }
 
 
+.studentimages{
 
+
+
+}
 
 
 .navbar-text {
   display: inline;
   font-family: arial;
+
+}
+
+#loremtext{
+
+background-color: darkblue;
+font-family: arial;
+font-size: 20px;
+
 
 }

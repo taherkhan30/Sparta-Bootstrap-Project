@@ -1,0 +1,19 @@
+.jumbotext{
+
+  padding-right: 30px;
+  padding-left: 30px;
+
+}
+
+.jumbotron {
+  padding-top: 100px;
+  height: 500px;
+  width: 100%;
+  /* max-height: 100%; */
+  max-width: 100%;
+  min-height: 20%;
+  min-width: 30%;
+  background-image: url("simple.jpg");
+  background-size: cover;
+  color: white;
+}
