@@ -5,6 +5,42 @@ color: orange;
 
 } */
 
+.image {
+  display: block;
+  text-align: center;
+  margin: 60px auto 0;
+  border: 3px solid darkblue;
+  border-radius: 50%;
+
+}
+
+.button{
+  padding-right: 30px;
+  padding-left: 30px;
+
+}
+
+.helloworld{
+
+  padding-right: 30px;
+  padding-left: 30px;
+
+}
+
+.jumbotext{
+
+  padding-right: 30px;
+  padding-left: 30px;
+
+.jumbobutton{
+
+
+
+}
+
+
+}
+
 .jumbotron {
   padding-top: 100px;
   height: 500px;
@@ -18,28 +54,43 @@ color: orange;
   color: white;
 }
 
-h1 {
-
-padding: 20px;
-
-align-items: center;
-
+.advert {
+  padding-top: 100px;
+  height: 350px;
+  width: 100%;
+  max-width: 100%;
+  min-height: 20%;
+  min-width: 30%;
+  background-image: url("nest.jpg");
+  background-size: cover;
+  color: white;
 }
 
-p{
+
+.adverttext{
+
+ font-style: italic;
+ padding-right: 30px;
+ padding-left: 30px;
+}
+
+.lorem{
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+p {
 
   padding: 20px;
-
-
+  font-size: 20PX;
 }
-/* .advert{
-
-padding-top: 40px;
 
 
-} */
-.footer {
 
-background-color: blue;
+
+
+.navbar-text {
+  display: inline;
+  font-family: arial;
 
 }
