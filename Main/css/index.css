@@ -6,7 +6,8 @@ color: orange;
 } */
 
 .jumbotron {
-  height: 400px;
+  padding-top: 100px;
+  height: 500px;
   width: 100%;
   /* max-height: 100%; */
   max-width: 100%;
@@ -19,12 +20,18 @@ color: orange;
 
 h1 {
 
-  margin-bottom: 20px;
+padding: 20px;
 
-
+align-items: center;
 
 }
 
+p{
+
+  padding: 20px;
+
+
+}
 /* .advert{
 
 padding-top: 40px;
