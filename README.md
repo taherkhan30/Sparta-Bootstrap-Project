@@ -15,4 +15,4 @@
 
 ## Responsive images
 
-![front-page](screenshot2.png)
+![front-page](Screenshot2.png)
