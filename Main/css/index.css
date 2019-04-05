@@ -1,10 +1,8 @@
-/* h1 {
+#frontimages{
 
-color: orange;
+  padding-top: 5px;
 
-
-} */
-
+}
 .image {
   display: block;
   text-align: center;
@@ -14,23 +12,24 @@ color: orange;
 
 }
 
+
 .button{
   padding-right: 30px;
-  padding-left: 30px;
+  padding-left: 20px;
 
 }
 
 .helloworld{
 
   padding-right: 30px;
-  padding-left: 30px;
+  padding-left: 20px;
 
 }
 
 .jumbotext{
 
-  padding-right: 30px;
-  padding-left: 30px;
+  padding-right:40px;
+
 
 
 }
@@ -48,24 +47,24 @@ color: orange;
   color: white;
 }
 
-.advert {
+#jumbotron2 {
   padding-top: 100px;
   height: 350px;
   width: 100%;
   max-width: 100%;
   min-height: 20%;
-  min-width: 30%;
+  min-width: 100%;
   background-image: url("nest.jpg");
   background-size: cover;
-  color: white;
+
 }
 
 
 .adverttext{
 
  font-style: italic;
- padding-right: 30px;
- padding-left: 30px;
+ padding-right: 20px;
+ padding-left: 20px;
 }
 
 .lorem{
@@ -77,13 +76,6 @@ p {
 
   padding: 20px;
   font-size: 20PX;
-}
-
-
-.studentimages{
-
-
-
 }
 
 
