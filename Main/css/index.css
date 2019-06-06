@@ -1,0 +1,94 @@
+#frontimages{
+
+  padding-top: 5px;
+
+}
+.image {
+  display: block;
+  text-align: center;
+  margin: 60px auto 0;
+  border: 3px solid darkblue;
+  border-radius: 50%;
+
+}
+
+
+.button{
+  padding-right: 30px;
+  padding-left: 20px;
+
+}
+
+.helloworld{
+
+  padding-right: 30px;
+  padding-left: 20px;
+
+}
+
+.jumbotext{
+
+  padding-right:40px;
+
+
+
+}
+
+.jumbotron {
+  padding-top: 100px;
+  height: 500px;
+  width: 100%;
+  max-width: 100%;
+  min-height: 20%;
+  min-width: 30%;
+  background-image: url("simple.jpg");
+  background-size: cover;
+  color: white;
+}
+
+#jumbotron2 {
+  padding-top: 100px;
+  height: 350px;
+  width: 100%;
+  max-width: 100%;
+  min-height: 20%;
+  min-width: 100%;
+  background-image: url("nest.jpg");
+  background-size: cover;
+
+}
+
+
+.adverttext{
+
+ font-style: italic;
+ padding-right: 20px;
+ padding-left: 20px;
+}
+
+.lorem{
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+p {
+
+  padding: 20px;
+  font-size: 20PX;
+}
+
+
+.navbar-text {
+  display: inline;
+  font-family: arial;
+
+}
+
+#loremtext{
+
+background-color: darkblue;
+font-family: arial;
+font-size: 20px;
+
+
+}
